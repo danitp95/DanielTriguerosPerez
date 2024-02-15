@@ -1,0 +1,416 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2024.2.15)  15 FEB 2024 19:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./plantillaLatex_PDF3D.tex
+(plantillaLatex_PDF3D.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-22>
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/base/article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/base/size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/media9/media9.sty
+Package: media9 2022/08/04 v1.25 acrobat-9/X compatible media
+\g_mix_pkgresizeflag_int=\count195
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/media9/pdfbase.sty
+Package: pdfbase 2022/08/04 v0.55 driver independent access to low-level PDF fe
+atures
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box51
+)
+\g_pbs_page_int=\count197
+\g_pbs_oc_int=\count198
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/ocgx2/ocgbase.sty
+Package: ocgbase 2022/08/04 v0.22 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count199
+)
+\l_mix_poster_box=\box52
+\g_mix_wd_dim=\dimen141
+\g_mix_ht_dim=\dimen142
+\g_mix_dp_dim=\dimen143
+\g_mix_rmcnt_int=\count266
+\l_mix_viewcnt_int=\count267
+\g@mix@page@int=\count268
+\g_mix_resizeflag_int=\count269
+\l_mix_lineno_int=\count270
+\l_mix_pbtn_box=\box53
+\g_mix_mbtncnt_int=\count271
+\mix@btn@dim=\dimen144
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/frontendlayer/tikz.sty
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/basiclayer/pgf.sty
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/utilities/pgfrcs.sty
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks17
+\pgfutil@tempdima=\dimen145
+\pgfutil@tempdimb=\dimen146
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box54
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/utilities/pgfrcs.code.tex
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/basiclayer/pgfcore.sty
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/graphics-def/pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/systemlayer/pgfsys.sty
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/utilities/pgfkeyslibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen149
+\pgf@y=\dimen150
+\pgf@xa=\dimen151
+\pgf@ya=\dimen152
+\pgf@xb=\dimen153
+\pgf@yb=\dimen154
+\pgf@xc=\dimen155
+\pgf@yc=\dimen156
+\pgf@xd=\dimen157
+\pgf@yd=\dimen158
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count272
+\c@pgf@countb=\count273
+\c@pgf@countc=\count274
+\c@pgf@countd=\count275
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count276
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count277
+\pgfsyssoftpath@bigbuffer@items=\count278
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmath.code.tex
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathutil.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen159
+\pgfmath@count=\count279
+\pgfmath@box=\box55
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfunctions.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfunctions.basic.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfunctions.random.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfunctions.comparison.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfunctions.base.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfunctions.round.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfunctions.misc.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfunctions.integerarithmetics.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathcalc.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count280
+))
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfint.code.tex)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen160
+\pgf@picmaxx=\dimen161
+\pgf@picminy=\dimen162
+\pgf@picmaxy=\dimen163
+\pgf@pathminx=\dimen164
+\pgf@pathmaxx=\dimen165
+\pgf@pathminy=\dimen166
+\pgf@pathmaxy=\dimen167
+\pgf@xx=\dimen168
+\pgf@xy=\dimen169
+\pgf@yx=\dimen170
+\pgf@yy=\dimen171
+\pgf@zx=\dimen172
+\pgf@zy=\dimen173
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen174
+\pgf@path@lasty=\dimen175
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen176
+\pgf@shorten@start@additional=\dimen177
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box56
+\pgf@hbox=\box57
+\pgf@layerbox@main=\box58
+\pgf@picture@serial@count=\count281
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen178
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen179
+\pgf@pt@y=\dimen180
+\pgf@pt@temp=\dimen181
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen182
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen183
+\pgf@sys@shading@range@num=\count282
+\pgf@shadingcount=\count283
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box59
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box60
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen184
+\pgf@nodesepend=\dimen185
+)
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/utilities/pgffor.sty
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/utilities/pgfkeys.sty
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/utilities/pgfkeys.code.tex))
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/lat
+ex/pgf/math/pgfmath.sty
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/math/pgfmath.code.tex))
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen186
+\pgffor@skip=\dimen187
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count284
+\pgfplotmarksize=\dimen188
+)
+\tikz@lastx=\dimen189
+\tikz@lasty=\dimen190
+\tikz@lastxsaved=\dimen191
+\tikz@lastysaved=\dimen192
+\tikz@lastmovetox=\dimen193
+\tikz@lastmovetoy=\dimen194
+\tikzleveldistance=\dimen195
+\tikzsiblingdistance=\dimen196
+\tikz@figbox=\box61
+\tikz@figbox@bg=\box62
+\tikz@tempbox=\box63
+\tikz@tempbox@bg=\box64
+\tikztreelevel=\count285
+\tikznumberofchildren=\count286
+\tikznumberofcurrentchild=\count287
+\tikz@fig@count=\count288
+
+(/Users/nereachapinal/Library/Application Support/MiKTeX/texmfs/install/tex/gen
+eric/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count289
+\pgfmatrixcurrentcolumn=\count290
+\
